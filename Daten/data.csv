@@ -1,3 +1,21 @@
+# File data-tables,,,,
+# Created 2025-07-19,,,,
+# Last modified 2025-07-24,,,,
+# Creation Process: Entered from scan of handwritten data sheet (in Version Control),,,,
+# Creator: Maria Shinoto,,,,
+"# Modifications by: Maria Shinoto, …",,,,
+"# About corrections: Obvious writing errors were unified (see sheet 01..), missing data marked as „nA“",,,,
+# --- About the data ---,,,,
+"# Variable „Aufnahme Nr.“: Unique Ids for pottery fragments, the main entities of the table",,,,
+"# Variable „Befund“: IDs for find context, obviously pit house pits, several mentionings possible. ",,,,
+# ,"Alphanumeric ID, standardized to „H“ for category of find context „house“ and two digits numbers",,,
+"# Variable „Grundriss“: nominal scale with 2 categories: „rund“, „eckig“; no definition",,,,
+# Variable „Gefäßform“: nominal scale with 2 categories: German translations of Japanese terms kame and tsubo as „Topf“ and „Flasche“,,,,
+# Variable „Maximaler Radius“: numeric (ratioscale) Variable for measurement of the maximum radius of the vessel where possible,,,,
+# ,Measurement unit: „cm“,,,
+# ,Missing values: „nA“ (not available) without decision whether is was not recorded or could not be measured. ,,,
+,,,,
+,,,,
 Aufnahme Nr.,Befund,Grundriss,Gefäßform,Maximaler Radius
 1,H02,rund,Topf,15
 2,H02,rund,Topf,12
