@@ -1,10 +1,10 @@
 Aufnahme Nr.,Befund,Grundriss,Gefäßform,Maximaler Radius
-1,Haus 2,rund,Topf,15 cm
-2,Haus 2,rund,Topf,12cm
-3,Haus 3,rechteckig,Topf,6cm
-4,Haus3,rechteckig,kame (topf),16cm
-5,Haus 3,rechteckig,Flasche,12cm
-6,Haus 3,eckig,Topf,14cm
-7,Haus 3,rechteckig,Topf,
-8,H.1,rund,Flasche,11
-9,H 1,rund,Flasche,12
+1,H02,rund,Topf,15
+2,H02,rund,Topf,12
+3,H03,rechteckig,Topf,6
+4,H03,rechteckig,Topf,16
+5,H03,rechteckig,Flasche,12
+6,H03,rechteckig,Topf,14
+7,H03,rechteckig,Topf,nA
+8,H01,rund,Flasche,11
+9,H01,rund,Flasche,12
