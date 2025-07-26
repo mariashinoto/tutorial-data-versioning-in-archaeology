@@ -1,0 +1,26 @@
+# File pottery-table from data-tables,,
+# Created 2025-07-25,,
+# Creator: Maria Shinoto,,
+# Last modified 2025-07-25,,
+"# Modifications by: Maria Shinoto, …",,
+# Creation Process: Original data entered in one table from scan of handwritten data sheet (stored in Version Control),,
+"# About corrections: Obvious writing errors were unified (see sheet 01..), missing data marked as „nA“",,
+"# About normalization: Division of one table in two (n pottery, 1 context)",,
+# --- About the data ---,,
+"# Variable „Aufnahme Nr.“: Unique Ids for pottery fragments, the main entities of the table",,
+# Variable „Gefäßform“: nominal scale with 2 categories: German translations of Japanese terms kame and tsubo as „Topf“ and „Flasche“,,
+# Variable „Maximaler Radius“: numeric (ratioscale) Variable for measurement of the maximum radius of the vessel where possible,,
+# ,Measurement unit: „cm“,
+# ,Missing values: „nA“ (not available) without decision whether is was not recorded or could not be measured. ,
+# ,,
+# ,,
+Aufnahme Nr.,Gefäßform,Maximaler Radius
+1,Topf,15
+2,Topf,12
+3,Topf,6
+4,Topf,16
+5,Flasche,12
+6,Topf,14
+7,Topf,nA
+8,Flasche,11
+9,Flasche,12
