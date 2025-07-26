@@ -1,16 +1,17 @@
-# File context-table from data-tables,
+# File "contexts.csv",
 # Created 2025-07-25,
-# Last modified 2025-07-25,
+# Last modified 2025-07-26,
 # Creation Process: Original data entered from scan of handwritten data sheet (in Version Control),
+# , entered in Spreadsheet and exported to CSV
 # Creator: Maria Shinoto,
-"# Modifications by: Maria Shinoto, …",
-"# About corrections: Obvious writing errors were unified (see sheet 01..), missing data marked as „nA“",
-"# About normalization: Division of one table in two (n pottery, 1 context)",
+# Modifications by: Maria Shinoto, …,
+# About corrections: Obvious writing errors were unified,
+# About normalization: Division of one table in two (n pottery, 1 context),
 # ,Delete double mentions and reduce to 3 unique context units
 # --- About the data ---,
-"# Variable „Befund“: IDs for find context, obviously pit house pits, several mentionings possible. ",
-# ,"Alphanumeric ID, standardized to „H“ for category of find context „house“ and two digits numbers"
-"# Variable „Grundriss“: nominal scale with 2 categories: „rund“, „eckig“; no definition",
+# Variable "Befund": IDs for find context, obviously pit house pits, several mentionings possible.,
+# ,Alphanumeric ID, standardized to "H" for category of find context "house" and two digits numbers"
+# Variable "Grundriss": nominal scale with 2 categories: "rund", "eckig"; "no definition",
 # ,
 # ,
 Befund,Grundriss
