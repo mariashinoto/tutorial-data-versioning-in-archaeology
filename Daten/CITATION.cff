@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "Material zu einem Tutorial: Reproduzierbarkeit mit Versionskontrolle"
+version: 1.0.0
+license: CC-BY-SA-4.0
+type: software
+message: "If you use this software, please cite it as below, and cite the accompanying publication."
+abstract: >-
+  Accompanying data to the tutorial "Reproduzierbarkeit von der Datenerfassung bis zur Publikation – Theorie und methodisches Vorgehen im Beispiel" (Shinoto 2026).
+authors:
+  - given-names: Maria
+    family-names: Shinoto
+    affiliation: "Universität Heidelberg, Germany"
+    orcid: "https://orcid.org/0000-0002-1825-0097"
+keywords:
+  - Tutorial
+  - Reproducibility
+  - Version control
+  - Git
+  - Quantitative archeological research
+preferred-citation:
+  type: article
+  authors:
+    - given-names: Maria
+      family-names: Shinoto
+      affiliation: "Universität Heidelberg, Germany"
+      orcid: "https://orcid.org/0000-0002-1825-0097"
+  title: "Reproduzierbarkeit von der Datenerfassung bis zur Publikation – Theorie und methodisches Vorgehen im Beispiel"
+  year: 2026
+  journal: "Digitale Kompetenzen in den archäologischen Disziplinen. Perspektiven"
+  editors:
+    - family-names: "Bolder-Boos"
+      given-names: "Marion"
+    - family-names: "Hageneuer"
+      given-names: "Sebastian"
+    - family-names: "Pantelidis"
+      given-names: "Georg"
+  publisher: "Propylaeum"
+  city: "Heidelberg"
+  start: 103
+  end: 120
+  url: "https://doi.org/10.11588/propylaeum.1773.c26532"
+  doi: "10.11588/propylaeum.1773.c26532"
