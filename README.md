@@ -1,6 +1,6 @@
 # Tutorial-Material: Reproduzierbarkeit mit Versionskontrolle
 
-[ZENODO-DOI-BADGE-CODE] [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[\[ZENODO-DOI-BADGE-CODE\]](https://doi.org/10.5281/zenodo.20263102) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
 
@@ -15,7 +15,11 @@ Wenn Sie diese Materialien nutzen, zitieren Sie bitte **sowohl den dazugehörige
 > DOI: [10.11588/propylaeum.1773.c26532](https://doi.org/10.11588/propylaeum.1773.c26532)
 
 **Dieses Repository:**
-Bitte nutzen Sie für die Zitation dieses Repositories die DOI, die oben im Zenodo-Badge verlinkt ist, oder verwenden Sie die "Cite this repository"-Funktion (via `CITATION.cff`) in der rechten Seitenleiste von GitHub.
+Bitte zitieren Sie dieses Repositories wie folgt: 
+
+Maria Shinoto. (2026). mariashinoto/tutorial-data-versioning-in-archaeology (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20263102.
+
+Oder verwenden Sie die "Cite this repository"-Funktion (via `CITATION.cff`) in der rechten Seitenleiste von GitHub.
 
 ## Lizenz
 

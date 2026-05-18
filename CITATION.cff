@@ -17,8 +17,13 @@ keywords:
   - Version control
   - Git
   - Quantitative archeological research
+doi: "10.5281/zenodo.20263102"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20263102"
+    description: "Zenodo DOI of this software release"
 preferred-citation:
-  type: article
+  type: conference-paper
   authors:
     - given-names: Maria
       family-names: Shinoto
@@ -26,7 +31,7 @@ preferred-citation:
       orcid: "https://orcid.org/0000-0002-1825-0097"
   title: "Reproduzierbarkeit von der Datenerfassung bis zur Publikation – Theorie und methodisches Vorgehen im Beispiel"
   year: 2026
-  journal: "Digitale Kompetenzen in den archäologischen Disziplinen. Perspektiven"
+  collection-title: "Digitale Kompetenzen in den archäologischen Disziplinen. Perspektiven"
   editors:
     - family-names: "Bolder-Boos"
       given-names: "Marion"
@@ -34,8 +39,9 @@ preferred-citation:
       given-names: "Sebastian"
     - family-names: "Pantelidis"
       given-names: "Georg"
-  publisher: "Propylaeum"
-  city: "Heidelberg"
+  publisher:
+    name: "Propylaeum"
+    address: "Heidelberg"
   start: 103
   end: 120
   url: "https://doi.org/10.11588/propylaeum.1773.c26532"
