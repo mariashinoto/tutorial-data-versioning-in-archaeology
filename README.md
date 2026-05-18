@@ -1,6 +1,6 @@
 # Tutorial-Material: Reproduzierbarkeit mit Versionskontrolle
 
-[\[ZENODO-DOI-BADGE-CODE\]](https://doi.org/10.5281/zenodo.20263102) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![DOI](https://zenodo.org/badge/1023302211.svg)](https://doi.org/10.5281/zenodo.20263101) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
 
